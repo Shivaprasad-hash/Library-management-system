@@ -1,0 +1,6 @@
+# Secrets and Environment Variables
+.env
+.env.local
+
+# Dependency Folders (keeps your upload small and fast)
+node_modules/
