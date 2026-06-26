@@ -2,5 +2,5 @@
 .env
 .env.local
 
-# Dependency Folders (keeps your upload small and fast)
+# Dependency Folder
 node_modules/
